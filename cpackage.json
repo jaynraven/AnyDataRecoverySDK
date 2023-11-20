@@ -1,5 +1,5 @@
 {
-    "name":"CMakeTemplateSDK",
+    "name":"cmake_helloworld",
     "version":"1.0.0.0",
     "dependencies":{
         "common":[
